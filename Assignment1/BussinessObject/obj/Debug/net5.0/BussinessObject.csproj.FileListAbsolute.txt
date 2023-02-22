@@ -1,0 +1,12 @@
+D:\PRN211\Assignment1\BussinessObject\bin\Debug\net5.0\BussinessObject.deps.json
+D:\PRN211\Assignment1\BussinessObject\bin\Debug\net5.0\BussinessObject.dll
+D:\PRN211\Assignment1\BussinessObject\bin\Debug\net5.0\BussinessObject.pdb
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.AssemblyReference.cache
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfoInputs.cache
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.AssemblyInfo.cs
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.csproj.CoreCompileInputs.cache
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.dll
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\refint\BussinessObject.dll
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\BussinessObject.pdb
+D:\PRN211\Assignment1\BussinessObject\obj\Debug\net5.0\ref\BussinessObject.dll
